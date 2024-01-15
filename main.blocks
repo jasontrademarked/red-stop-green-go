@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="|G3#$N?)+h@aRl#^JosK" x="0" y="0"><statement name="HANDLER"><block type="mbit_RGB2" id="`g!ImDqc5MgN`@R;_oNC"><field name="pin1">DigitalPin.P0</field><field name="pin2">DigitalPin.P1</field><field name="pin3">DigitalPin.P2</field><field name="value">mbit_Display.enColor.Red</field><next><block type="device_show_leds" id="U$`Ua}EbGOU5R%3)`i,+"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        . # . # . 
+        . # . # .
+        `</field><next><block type="device_pause" id="KZL4`z4~8sg9*xRx-ts("><value name="pause"><shadow type="timePicker" id="W[k1=67t$ei]YC%ygRIo"><field name="ms">10000</field></shadow></value><next><block type="mbit_RGB2" id="1qTQlwt5ADMBSe%nz-nW"><field name="pin1">DigitalPin.P0</field><field name="pin2">DigitalPin.P1</field><field name="pin3">DigitalPin.P2</field><field name="value">mbit_Display.enColor.Green</field><next><block type="device_show_leds" id="L-SekN(WX:V-ESMqGAWn"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        . # . # . 
+        # . . . #
+        `</field><next><block type="device_pause" id="wCMqv2;Ps{OJ;$^w_d,."><value name="pause"><shadow type="timePicker" id="6[4eJyVGgz7ECqmepdfv"><field name="ms">10000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
